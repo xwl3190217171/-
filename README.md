@@ -3,4 +3,4 @@
 <h3>3.微信小程序功能：会议须知、会议议程、会议资料、通讯联络、住宿安排、用餐安排、天气预报、交通地图、往返信息、紧急联系<br></h3>
 <h3>4.后端：采用SpringBoot+MyBatis 数据库：mySQL 数据库设计、接口编写 后台管理系统：vue <br></h3>
 <h3>5.微信小程序：微信原生框架+vant Icon:采用阿里巴巴矢量图标库<br></h3>
-![image](https://user-images.githubusercontent.com/26345252/133216032-94c6752e-e769-4d47-826d-ae5c4611b056.png)
+![20210907171314.png](http://demo.sapicd.com/static/upload/demo/2021/09/14/20210907171314.png)
